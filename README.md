@@ -1,6 +1,6 @@
 # Welcome to my GitHub portfolio!
 
-I'm a data analyst interested in analytics and software engineering.
+I'm an analyst at the University of Aberdeen interested in data science and software engineering.
 
 ## 📫 Contact me
 - Email: buchananja.github@pm.me
