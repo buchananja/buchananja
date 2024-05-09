@@ -1,4 +1,4 @@
-# Welcome to my GitHub portfolio!
+# About
 
 I'm an analyst at the University of Aberdeen who's interested in data science and software engineering
 
