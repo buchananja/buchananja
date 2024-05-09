@@ -1,6 +1,6 @@
 # Welcome to my GitHub portfolio!
 
-I'm an analyst at the University of Aberdeen, interested in data science and software engineering
+I'm an analyst at the University of Aberdeen who's interested in data science and software engineering
 
 ```RGU Access to Computing // University of Aberdeen MSci Biological Sciences```
 
