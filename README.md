@@ -1,9 +1,3 @@
 # About
 
-I'm an analyst at the University of Aberdeen who's interested in data science and software engineering
-
-```RGU Access to Computing // UoA MSci Biological Sciences```
-
-## 📫 Contact me
-- Email: buchananja.github@pm.me
-- LinkedIn: https://www.linkedin.com/in/buchananja/
+I'm a data analyst who's interested in analytics, software engineering, and data-intensive systems
